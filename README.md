@@ -21,7 +21,7 @@ The goal of this project is to analyze match-by-match ODI data and discover insi
 
 ## 📂 Dataset
 
-- File: `Virat_Kohli_ODI.xlsx`
+- File: `Virat_Kohli_ODI.csv`
 - Contains match-level statistics such as:
   - Runs
   - Balls Faced
@@ -48,7 +48,8 @@ The goal of this project is to analyze match-by-match ODI data and discover insi
 ## ▶️ How to Run
 
 1. Clone the repository:
-   ```bash
+
+```bash
 git clone https://github.com/harithaharikumar100-gif/virat-kohli-odi-eda.git
 cd virat-kohli-odi-eda
 
