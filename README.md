@@ -49,9 +49,6 @@ The goal of this project is to analyze match-by-match ODI data and discover insi
 
 1. Clone the repository:
    ```bash
-git clone https://github.com/yourusername/virat-kohli-odi-eda.git
+git clone https://github.com/harithaharikumar100-gif/virat-kohli-odi-eda.git
 cd virat-kohli-odi-eda
 
-```bash
-git clone https://github.com/yourusername/virat-kohli-odi-eda.git
-cd virat-kohli-odi-eda
